@@ -10,6 +10,7 @@ didapatkan dari API akan disimpan sementara dalam dataStore untuk keperluan isLo
 tombol logout.
 
 Checklists:
+
 [x] Proses login berhasil dengan benar
 
 [x] Proses register berhasil dengan benar
