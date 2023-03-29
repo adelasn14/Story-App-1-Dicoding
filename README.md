@@ -1,33 +1,35 @@
-# StoryApp_Intermediate
+#StoryApp_Intermediate
 
-Story App Dicoding Submission 1 program Bangkit by Adela SN.
+Story App Dicoding Submission 1 Bangkit program by Adela SN.
 
-Aplikasi terdiri dari login, sign up, add story, display story menggunakan endpoint API Story yang disediakan oleh Dicoding.
+The application consists of login, sign up, add story, display story using the Story API endpoint provided by Dicoding.
 
-Respond Login akan menghasilkan token yang akan digunakan untuk mengirimkan data story dan mengambil data story untuk ditampilkan ke halaman display story.
-Preferences menggunakan Shared Preference dan dilakukan secara manual di activity login, activity add story dan activity display story. Data-data yang
-didapatkan dari API akan disimpan sementara dalam dataStore untuk keperluan isLogin dan Logout yang akan menghapuskan data sesi dan token ketika memilih
-tombol logout.
+The Respond Login will generate a token that will be used to send story data and retrieve story data to be displayed on the display story page. Preferences use Shared Preferences and are done manually in activity login, activity add story and activity display story. The data obtained from the API will be temporarily stored in the dataStore for isLogin and Logout purposes which will delete session and token data when selecting
+logout button.
 
 Checklists:
 
-[x] Proses login berhasil dengan benar
+[x] The login process was successful
 
-[x] Proses register berhasil dengan benar
+[x] The registration process was successful
 
-[x] Membuat Custom View berupa EditText sesuai kriteria
+[x] Create a Custom View in the form of EditText according to the criteria
 
-[x] Menyimpan data sesi dan token di preferences
+[x] Stores session and token data in preferences
 
-[x] Terdapat fitur untuk logout untuk mengahapus sesi
+[x] There is a feature to log out to delete the session
 
-[x] Menampilkan daftar cerita dari API
+[x] Displays a list of stories from the API
 
-[x] Muncul halaman detail ketika salah satu item cerita ditekan
+[x] A detail page appears when one of the story items is pressed
 
-[x] Proses menambah cerita baru berhasil sesuai kriteria
+[x] The process of adding a new story was successful according to the criteria
 
-[x] Membuat animasi pada aplikasi
+[x] Create animation on the application
+
+
+Link to go to the 2nd submission (continuation of this project) : https://github.com/adelasn14/Story-App-Dicoding
+
 
 More details about the scorecard : https://madscorecard.withgoogle.com/scorecards/3959161645/
 ![summary](https://user-images.githubusercontent.com/80314714/176715375-9fd1dcfe-0119-48f4-9a4c-49772a2a4fd9.png)
